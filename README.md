@@ -38,16 +38,10 @@ We applied a **Convolutional Neural Network (CNN)** model for sentiment classifi
 
 ```bash
 .
-├── data/
-│   ├── bjp_tweets.csv
-│   ├── congress_tweets.csv
-├── notebooks/
-│   ├── research_practise2.ipynb
-├── visualizations/
-│   ├── loss_plot.png
-│   ├── sentiment_distribution.png
-│   ├── word_clouds.png
-│   ├── word_frequency.png
+
+├── bjp_tweets.csv
+├── congress_tweets.csv
+├── research_practise2.ipynb
 ├── README.md
 └── requirements.txt
 ````
