@@ -63,7 +63,7 @@ We applied a **Convolutional Neural Network (CNN)** model for sentiment classifi
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/indian-election-sentiment-analysis.git
+git clone https://github.com/Pankajjoshi11/sentiment_analysis_tweets.git
 cd indian-election-sentiment-analysis
 ```
 
