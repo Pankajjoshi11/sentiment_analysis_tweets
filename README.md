@@ -1,8 +1,3 @@
-Sure! Here's your content properly formatted as a `README.md` file using Markdown syntax—ready to be directly copy-pasted into GitHub:
-
----
-
-````markdown
 # 🗳️ Indian Election Forecast using Twitter Sentiment Analysis
 
 This repository contains the code and methodology for the project **"A Data-Driven Forecast of Indian Elections Using Twitter Sentiment Analysis"**, which leverages data analytics and machine learning to predict public sentiment during the 2019 Indian Lok Sabha Elections using tweets.
