@@ -37,7 +37,6 @@ We applied a **Convolutional Neural Network (CNN)** model for sentiment classifi
 ## 📁 Directory Structure
 
 ```bash
-.
 
 ├── bjp_tweets.csv
 ├── congress_tweets.csv
@@ -64,7 +63,7 @@ We applied a **Convolutional Neural Network (CNN)** model for sentiment classifi
 
 ```bash
 git clone https://github.com/Pankajjoshi11/sentiment_analysis_tweets.git
-cd indian-election-sentiment-analysis
+cd sentiment_analysis_tweets
 ```
 
 ### Set Up Environment:
@@ -78,10 +77,10 @@ pip install -r requirements.txt
 ### Run the Notebook:
 
 ```bash
-jupyter notebook notebooks/research_practise2.ipynb
+jupyter notebook research_practise2.ipynb
 ```
 
-* Ensure `bjp_tweets.csv` and `congress_tweets.csv` are in the `data/` folder.
+* Ensure `bjp_tweets.csv` and `congress_tweets.csv` are in the `/` folder.
 * Execute the notebook cells to preprocess data, train the CNN model, and generate visualizations.
 
 ---
@@ -90,7 +89,7 @@ jupyter notebook notebooks/research_practise2.ipynb
 
 The project includes the following visualizations:
 
-* 📉 **Loss Curves**: Training and validation loss over 30 epochs (`visualizations/loss_plot.png`)
+* 📉 **Loss Curves**: Training and validation loss over 30 epochs 
 * 📊 **Sentiment Distribution**: Bar plot of positive vs. negative tweets
 * ☁️ **Word Clouds**: Frequent words in positive and negative tweets
 * 🔤 **Word Frequency**: Bar plots of top words in each sentiment class
@@ -110,4 +109,3 @@ The project includes the following visualizations:
 Feel free to reach out via email for queries or contributions:
 📧 [pankaj70451@gmail.com](mailto:pankaj70451@gmail.com)
 
-```
